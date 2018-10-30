@@ -37,6 +37,8 @@ Is Portugal having such a fast touristic growth because of the rising number of 
 ### Datasets used for this project:
 
 Flight Data: https://data.worldbank.org/indicator/IS.AIR.PSGR, The World Bank
+
 Housing Prices: https://stats.oecd.org/Index.aspx?DataSetCode=HOUSE_PRICES, OECD
+
 Tourism Revenue in Portugal: http://travelbi.turismodeportugal.pt/pt-pt/Paginas/PowerBI/proveitos-da-hotelaria.aspx, Turismo de Portugal
 
