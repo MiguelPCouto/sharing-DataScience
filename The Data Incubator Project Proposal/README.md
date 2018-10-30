@@ -33,3 +33,10 @@ Is Portugal having such a fast touristic growth because of the rising number of 
 [2] "Policy Statement - Tourism Policies for Sustainable and Inclusive Growth", OCDE, 2017, Paris
 
 [3] "House Price Index increased 7.1% in 2016 - 4th Quarter 2016", Instituto Nacional de Estatística
+
+### Datasets used for this project:
+
+Flight Data: https://data.worldbank.org/indicator/IS.AIR.PSGR, The World Bank
+Housing Prices: https://stats.oecd.org/Index.aspx?DataSetCode=HOUSE_PRICES, OECD
+Tourism Revenue in Portugal: http://travelbi.turismodeportugal.pt/pt-pt/Paginas/PowerBI/proveitos-da-hotelaria.aspx, Turismo de Portugal
+
