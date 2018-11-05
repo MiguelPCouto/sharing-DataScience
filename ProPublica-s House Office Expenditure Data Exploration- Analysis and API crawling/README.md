@@ -8,35 +8,35 @@ Note that I have only used the datasets contained in the "Detailed" folder.
 
 The formulated questions are as follow:
 
-1 - What is the total of all the payments in the dataset?
+*1 - What is the total of all the payments in the dataset?*
 
 
-2 - What was the average annual expenditure with a 'START DATE' date between January 1, 2010
-and December 31, 2016 (inclusive)?
+*2 - What was the average annual expenditure with a 'START DATE' date between January 1, 2010
+and December 31, 2016 (inclusive)?*
 
 
-3 - What was the highest average staff salary among all representatives in 2016? 
-Assuming staff sizes is equal to the number of unique payees in the 'PERSONNEL COMPENSATION' category for each representative.
+*3 - What was the highest average staff salary among all representatives in 2016? 
+Assuming staff sizes is equal to the number of unique payees in the 'PERSONNEL COMPENSATION' category for each representative.*
 
 
-4 - What percentage of the expenditures of the top 20 spenders in 2016 come from members of the Democratic Party? 
+*4 - What percentage of the expenditures of the top 20 spenders in 2016 come from members of the Democratic Party? 
 Representatives are identified by their 'BIOGUIDE_ID', which can be used to look up representatives 
 with ProPublica's Congress API to find their party affiliation. 
-Considered an expenditure as being in 2016 if its 'START DATE' is in 2016.
+Considered an expenditure as being in 2016 if its 'START DATE' is in 2016.*
 
 
-5 - Define the 'COVERAGE PERIOD' for each payment as the difference (in days) between 'END DATE' and 'START DATE'. 
-What is the standard deviation in 'COVERAGE PERIOD'? Only considered payments with strictly positive amounts.
+*5 - Define the 'COVERAGE PERIOD' for each payment as the difference (in days) between 'END DATE' and 'START DATE'. 
+What is the standard deviation in 'COVERAGE PERIOD'? Only considered payments with strictly positive amounts.*
 
 
-6 - Find the 'OFFICE' with the highest total expenditures with a 'START DATE' in 2016. 
+*6 - Find the 'OFFICE' with the highest total expenditures with a 'START DATE' in 2016. 
 For this office, find the 'PURPOSE' that accounts for the highest total expenditures. 
-What fraction of the total expenditures (all records, all offices) with a 'START DATE' in 2016 do these expenditures amount to?
+What fraction of the total expenditures (all records, all offices) with a 'START DATE' in 2016 do these expenditures amount to?*
 
 
-7 - What was the median rate of annual turnover in staff between 2011 and 2016 (inclusive)? 
+*7 - What was the median rate of annual turnover in staff between 2011 and 2016 (inclusive)? 
 Turnover for 2011 should be calculated as the fraction of a representative's staff from 2010 who did not carry over to 2011.
-Only considered representatives who served for at least 4 years and had staff size of at least 5 every year that they served.
+Only considered representatives who served for at least 4 years and had staff size of at least 5 every year that they served.*
 
 
 The script can be run directly from beginning to end without the need to do anything else.
