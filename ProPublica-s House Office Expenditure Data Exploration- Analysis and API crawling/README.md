@@ -22,7 +22,7 @@ The formulated questions are as follow:
 #### Considered an expenditure as being in 2016 if its 'START DATE' is in 2016.
 
 
-#### 5: Define the 'COVERAGE PERIOD' for each payment as the difference (in days) between 'END DATE' and 'START DATE'. 
+#### 5 - Define the 'COVERAGE PERIOD' for each payment as the difference (in days) between 'END DATE' and 'START DATE'. 
 #### What is the standard deviation in 'COVERAGE PERIOD'? Only considered payments with strictly positive amounts.
 
 
