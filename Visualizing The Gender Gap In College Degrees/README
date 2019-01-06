@@ -1,0 +1,4 @@
+# Visualizing The Gender Gap In College Degrees
+In this project we will be exclusively using *Pandas* and the plotting library *Matplotlib* to plot the gender gaps in different degrees in the USA between 1968 and 2011.
+
+The dataset was obtained from the The Department of Education Statistics and cleaned by Randal Olson.
